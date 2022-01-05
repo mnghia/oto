@@ -1,0 +1,11 @@
+.infor{
+    display: flex;
+}
+.infor .phai
+{
+    padding-left: 20px;
+    width: 400px;
+}
+.infor .phai h1{
+    padding-left: 20px;
+}

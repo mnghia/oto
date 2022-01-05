@@ -1,0 +1,6 @@
+.tong{
+    display: flex;
+}
+.tong .phai{
+    padding-left: 100px;
+}

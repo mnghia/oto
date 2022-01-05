@@ -1,0 +1,37 @@
+.lienhe{
+    display: flex;
+    margin-left: 330px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.lienhe p{
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.thongtin {
+    padding-left: 10px;
+}
+.infor h2{
+   margin-left: 300px;
+   
+}
+.infor h3{
+    margin: 20px 320px;
+}
+.infor h4{
+    font-size: 25px;
+    border-bottom: 2px solid rgb(0, 255, 179);
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.infor h1{
+    padding-top: 30px;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 255, 179);
+}
+body{
+    background-color: rgb(219, 219, 161);
+}

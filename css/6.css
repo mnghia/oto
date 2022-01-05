@@ -1,0 +1,58 @@
+.phandau{
+    display: flex;
+    background-color: rgb(216, 215, 212);
+    height: 40px;
+    
+}
+.phandau .trai{
+    margin-top: 10px;
+}
+.phandau .trai a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: black;
+    font-family: 'Segoe UI',;
+}
+.phandau .phai{
+     margin-left: 1050px;
+     margin-top: 10px;
+}
+.phandau .phai a{
+    color: grey;
+    text-decoration: none;
+}
+.phandau .phai .fa-windows{
+    padding-left: 20px;
+}
+.phancuoi{
+    display: flex;
+}
+.phancuoi .bentrai{
+    width: 200px;
+}
+.phancuoi .bentrai li{
+    border: 2px solid rgb(9, 42, 231);
+    padding: 5px;
+    color: rgb(0, 38, 255);
+    font-family: 'Segoe UI';
+    font-weight: bolder;
+}
+.phancuoi .benphai{
+    text-align: center;
+    margin: 0 auto;
+    border-bottom: 2px solid red;
+    width: 500px;
+}
+.phancuoi .benphai h3{
+    color: red;
+    font-size: 25px;
+    font-family: 'Segoe UI';
+}
+.phancuoi .benphai img{
+    padding-top: 30px;
+    width: 150px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}

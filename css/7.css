@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lemonchiffon;
+}
+h1{
+    color: red;
+    background-color: orange;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 30px;
+}
+ul{
+    padding-top: 30px;
+    padding-left: 100px;
+}
+ul li{
+    color: rgb(167, 31, 162);
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    font-weight: bolder;
+}
+hr{
+    margin-top: 30px; 
+}
+.phangiua{
+    margin-top: 50px;
+    border-top:3px solid rgb(167, 31, 162);
+    margin-left: 15px;
+    border-bottom: 3px solid rgb(167, 31, 162);
+   
+}
+.phangiua h3{
+    padding-top: 15px;
+    font-family: 'Segoe UI';
+    color: orange;
+}
+.phangiua h4{
+    padding-top: 15px;
+    font-family: 'Segoe UI';
+    color: blue;
+}
+.thongtin{
+    padding-top: 30px;
+    display: flex;
+}
+.thongtin .benphai{
+    padding-left: 30px;
+}
+.thongtin .benphai span{
+    color: orange;
+}
+.thongtin .benphai p{
+    color: green;
+}
+span{
+    color: orange;
+}
+p{
+    padding-top: 15px;
+    color: green;
+    padding-bottom: 15px;
+}
+pre{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(21, 227, 235);
+}
+

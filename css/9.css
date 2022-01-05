@@ -1,0 +1,18 @@
+.nui{
+    display: flex;
+   width: 500px;
+}
+h1{
+    padding-left: 250px;
+}
+p{
+    padding-left: 10px;
+    margin-top: -5px;
+}
+.nui1{
+ display: flex;
+ padding-left: 120px;
+ margin-top: -15px;
+ width: 500px;
+}
+
